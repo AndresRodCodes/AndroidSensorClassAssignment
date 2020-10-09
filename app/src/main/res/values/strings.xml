@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">DetectTheMagneticField</string>
+    <string name="magnetic_field_sensor">Magnetic Field Sensor</string>
+    <string name="sensor_values">Sensor Values</string>
+</resources>
